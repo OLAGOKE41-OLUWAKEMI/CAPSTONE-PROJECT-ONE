@@ -7,14 +7,14 @@ performance, and monthly sales trends. The goal is to produce an interactive Pow
 dashboard that highlights these findings.
 
 The approach includes:
-* Eda
+* DAta exploration
 * Data Cleaning
 * Anaysis and Visualization
 
 ## Data Source
 This data was gotten from LITA  
 
-## Exploratory Data Analysis
+## Data Exploration
 Exerpts from the EDA:
 * There were 40079 duplicates in the data
 * There are no null values
@@ -43,14 +43,14 @@ and identify key trends in cancellations and renewals. The final deliverable is 
 dashboard that presents our analysis.
 
 The approach includes:
-* Eda
+* Data exploration
 * Data Cleaning
 * Anaysis and Visualization
 
 ## Data Source
 This data was gotten from LITA  
 
-## Exploratory Data Analysis
+## Data Exploration
 Exerpts from the EDA:
 * There were 41213 duplicates in the data
 * There are no null values
