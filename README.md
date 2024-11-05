@@ -15,7 +15,7 @@ The approach includes:
 This data was gotten from LITA  
 
 ## Data Exploration
-Exerpts from the EDA:
+Exerpts from the exploration:
 * There were 40079 duplicates in the data
 * There are no null values
 After carrying out the exploratory data analysis, we then procedd to data cleaning.\
@@ -51,7 +51,7 @@ The approach includes:
 This data was gotten from LITA  
 
 ## Data Exploration
-Exerpts from the EDA:
+Exerpts from the exploration:
 * There were 41213 duplicates in the data
 * There are no null values
 After carrying out the exploratory data analysis, we then procedd to data cleaning.\
